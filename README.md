@@ -1,0 +1,1 @@
+This is a small JavaScript project using Canvas. Clicking anywhere on the screen spawns a ball that moves in a random direction and bounces off the edges of the window. This mini project was built to practice basic animation and interactivity with canvas.
